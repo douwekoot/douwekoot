@@ -19,5 +19,4 @@ I'm a Dutch MBO student working toward a career as a system engineer, as well as
 -->
 
 ## Contact
-- **Email**: douwe.martin99@gmail.com
 - **LinkedIn**: Soon™
