@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Douwe! 👋
 
-<!--
-**douwekoot/douwekoot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Dutch MBO student working toward a career as a system engineer, as well as indulging in some hobby coding on the side.
 
-Here are some ideas to get you started:
+### Occupation
+- **Studying**: ICT System Engineering at ROC Midden Nederland
+- **Employment**: Currently interviewing for a governmental Migration Engineer position, but open to other opportunities as well.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Skills
+- **Networking**: OpenMediaVault, CiscoPacketTracer, Wireguard | VLANs, Routing, Switching, Tunneling
+- **Operating systems**: Fedora, Nobara, Windows (server & desktop)
+- **Scripting**: Bash, Python, PowerShell
+- **Coding**: JS, Python, HTML/CSS
+- **Languages**: Dutch (native), English (fluent)
+
+<!-- ## Projects
+- [Project name](link): one line on what it does and what you used
+- [Project name](link): one line on what it does and what you used
 -->
+
+## Contact
+- **Email**: douwe.martin99@gmail.com
+- **LinkedIn**: Soon™
