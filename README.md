@@ -4,7 +4,7 @@ I'm a Dutch MBO student working toward a career as a system engineer, as well as
 
 ### Occupation
 - **Studying**: ICT System Engineering at ROC Midden Nederland
-- **Employment**: Currently interviewing for a governmental Migration Engineer position, but open to other opportunities as well.
+- **Employment**: Currently interviewing for an engineering position, but open to other opportunities as well.
 
 ## Skills
 - **Networking**: OpenMediaVault, CiscoPacketTracer, Wireguard | VLANs, Routing, Switching, Tunneling
