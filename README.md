@@ -5,19 +5,19 @@ I'm a Dutch MBO student working toward a career as a system engineer, as well as
 ## Occupation
 
 - **Studying:** ICT System Engineering @ ROC Midden Nederland
-- **Work:** Interviewing, open to other opportunities as well
+- **Work:** Interviewing
 
 ## Projects
 
 - **Bitlotus:** free, open-source tools for freelancers and small teams
-- **Home server:** OpenMediaVault (Docker configured), accessed remotely over WireGuard
+- **Home server:** OpenMediaVault, accessed remotely over WireGuard
 
 ## Skills
 
-- **Networking:** VLANs, routing, switching, WireGuard, Cisco Packet Tracer
-- **Systems:** Windows (desktop and Server), Linux (Fedora, Nobara), OpenMediaVault, Docker
+- **Networking**
+- **Systems:** Windows (desktop and Server), Linux (Fedora, Nobara, Debian), OpenMediaVault, Docker
 - **Scripting:** Bash, PowerShell, Python
-- **Development:** JavaScript, HTML/CSS, full-stack development, web application security
+- **Development:** JavaScript, HTML/CSS, Python, Go
 
 ## Languages
 
