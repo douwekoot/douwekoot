@@ -7,11 +7,6 @@ I'm a Dutch MBO student working toward a career as a system engineer, as well as
 - **Studying:** ICT System Engineering @ ROC Midden Nederland
 - **Work:** Interviewing
 
-## Projects
-
-- **Bitlotus:** free, open-source tools for freelancers and small teams
-- **Home server:** OpenMediaVault, accessed remotely over WireGuard
-
 ## Skills
 
 - **Networking**
