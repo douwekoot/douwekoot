@@ -2,7 +2,7 @@
 
 I'm a Dutch tech enthusiast studying system engineering, as well as indulging in some hobby coding on the side.
 
-## Occupation
+## Boring stuff
 
 - **Studying:** ICT System Engineering @ ROC Midden Nederland
 - **Occupation:** Interviewing
