@@ -1,17 +1,17 @@
-# Hi, I'm Douwe! 👋
+# Douwe here!
 
-I'm a Dutch MBO student working toward a career as a system engineer, as well as indulging in some hobby coding on the side.
+I'm a Dutch tech enthusiast studying system engineering, as well as indulging in some hobby coding on the side.
 
 ## Occupation
 
 - **Studying:** ICT System Engineering @ ROC Midden Nederland
-- **Work:** Interviewing
+- **Occupation:** Interviewing
 
 ## Skills
 
 - **Networking**
-- **Systems:** Windows (desktop and Server), Linux (Fedora, Nobara, Debian), OpenMediaVault, Docker
-- **Scripting:** Bash, PowerShell, Python
+- **Systems:** Windows (desktop and Server), Linux (Fedora, Nobara, Debian), OpenMediaVault
+- **Scripting:** Bash, PowerShell, Python, Source engine CFGs
 - **Development:** JavaScript, HTML/CSS, Python, Go
 
 ## Languages
